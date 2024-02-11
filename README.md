@@ -2,5 +2,5 @@
 
 ## Commands
 
-- `make build` - compiles the server code and produces an executable in the root directory
-- `make start` - compiles the server code and runs the produced executable
+- `make` - compiles the server code and produces an executable in the root directory
+- `make clean` - cleans the object files
